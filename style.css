@@ -1,0 +1,26 @@
+section.success{
+  background: white;
+  color: #333;
+}
+
+#portfolio{
+	 background:#18BC9C;
+	 color: #fff;
+}
+
+#portfolio hr.star-primary{
+	border-color:#fff;
+}
+#portfolio hr.star-primary:after {
+    background-color: #18BC9C;
+    color: #fff;
+}
+
+section.success hr.star-light{
+	border-color:#333;
+}
+section.success hr.star-light:after{
+	color: #333;
+	background-color:#fff;
+}
+
