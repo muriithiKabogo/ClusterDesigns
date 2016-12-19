@@ -1,8 +1,28 @@
+/*header related css*/
+header{
+	background-image: url(img/coffee.jpg);
+}
+
+hr.star-light:after {
+    background-color: #000000;
+    color: #fff;
+}
+
+/*about related css*/
+
 section.success{
   background: white;
   color: #333;
 }
+section.success hr.star-light{
+	border-color:#333;
+}
+section.success hr.star-light:after{
+	color: #333;
+	background-color:#fff;
+}
 
+/*portfolio related css*/
 #portfolio{
 	 background:#18BC9C;
 	 color: #fff;
@@ -16,15 +36,4 @@ section.success{
     color: #fff;
 }
 
-section.success hr.star-light{
-	border-color:#333;
-}
-section.success hr.star-light:after{
-	color: #333;
-	background-color:#fff;
-}
-
-header{
-	background-image: url(img/coffee.jpg);
-}
 
