@@ -24,3 +24,7 @@ section.success hr.star-light:after{
 	background-color:#fff;
 }
 
+header{
+	background-image: url(img/coffee.jpg);
+}
+
