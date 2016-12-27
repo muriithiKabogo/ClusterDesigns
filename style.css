@@ -41,3 +41,14 @@ section.success hr.star-light:after{
 }
 
 
+/*portfolio modals*/
+.modal-body {
+    position: relative;
+    padding: 0px;
+}
+.col-lg-8{
+	padding-right: 0px;
+	padding-left: 0px
+}
+
+
