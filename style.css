@@ -12,6 +12,21 @@ hr.star-light:after {
 
 }
 
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 0px;
+  border: 1px solid transparent;
+}
+
+.navbar-fixed-top,
+.navbar-fixed-bottom {
+  position: relative;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
 /*about related css*/
 
 section.success{
@@ -50,5 +65,4 @@ section.success hr.star-light:after{
 	padding-right: 0px;
 	padding-left: 0px
 }
-
 
