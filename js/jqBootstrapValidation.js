@@ -1,4 +1,4 @@
-/* jqBootstrapValidation
+jQuery/* jqBootstrapValidation
  * A plugin for automating validation on Twitter Bootstrap formatted forms.
  *
  * v1.3.6
